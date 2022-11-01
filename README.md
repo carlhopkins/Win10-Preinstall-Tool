@@ -1,6 +1,6 @@
 ## Windows 10 Pre-Installation Tool - Carl Hopkins (c) 2022 ##
 
-iwr -useb https://raw.githubusercontent.com/carlhopkins/###/master/win10debloat.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/carlhopkins/Win10-Preinstall-Tool/main/win10debloat.ps1 | iex
 
 Note: Execute above command in elevated Powershell terminal, or clone repo locally.
 
